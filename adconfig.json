@@ -2,8 +2,8 @@
  	"os": "aos",
  	"apname":"2",
  	"appversion":"1",
-    "admob": "1",
-    "startapp": "0",
+    "admob": "0",
+    "startapp": "1",
     "tapcore": "1",
     "other":"1"
 }
