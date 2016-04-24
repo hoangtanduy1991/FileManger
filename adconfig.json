@@ -3,7 +3,7 @@
  	"apname":"2",
  	"appversion":"1",
     "admob": "1",
-    "startapp": "0",
+    "startapp": "1",
     "tapcore": "1",
-    "other":"0"
+    "other":"1"
 }
