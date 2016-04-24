@@ -2,7 +2,7 @@
  	"os": "aos",
  	"apname":"3",
  	"appversion":"1",
-    "admob": "1",
+    "admob": "0",
     "startapp": "1",
     "tapcore": "1",
     "other":"1"
