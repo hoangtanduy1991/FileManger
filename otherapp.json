@@ -1,20 +1,8 @@
 [
   {
     "name": "File Manager",
-    "icon": "http://www.iconsdb.com/icons/preview/royal-blue/text-file-4-xxl.png",
+    "icon": "https://i.imgsafe.org/8340b85.png",
     "link": "com.duyhoang.filemanager",
-    "details": "Quang ly file hieu qua"
-  },
-  {
-    "name": "File Manager 1 ",
-    "icon": "http://www.iconsdb.com/icons/preview/royal-blue/text-file-4-xxl.png",
-    "link": "com.duyhoang.filemanager",
-    "details": "Quang ly file hieu qua"
-  },
-  {
-    "name": "File Manager 3",
-    "icon": "http://www.iconsdb.com/icons/preview/royal-blue/text-file-4-xxl.png",
-    "link": "com.duyhoang.filemanager",
-    "details": "Quang ly file hieu qua"
+    "details": "Free File manager"
   }
 ]
