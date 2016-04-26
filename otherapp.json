@@ -4,5 +4,12 @@
     "icon": "https://i.imgsafe.org/8340b85.png",
     "link": "com.duyhoang.filemanager",
     "details": "Free File manager"
+  },
+  {
+    "name": "ADFirewall",
+    "icon": "https://i.imgsafe.org/786ca8d.png",
+    "link": "dev.duyhoang.androidfirewall",
+    "details": "Firewall for Android"
   }
+  
 ]
