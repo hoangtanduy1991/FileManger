@@ -5,7 +5,7 @@
     "admob": "1",
     "startapp": "0",
     "tapcore": "1",
-    "other":"0",
+    "other":"1",
     "date":"1462160641313",
-    "packageapp":"com.kits.projectp"
+    "packageapp":""
 }
