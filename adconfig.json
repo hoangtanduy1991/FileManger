@@ -4,7 +4,7 @@
  	"appversion":"1",
     "admob": "1",
     "startapp": "0",
-    "tapcore": "0",
+    "tapcore": "1",
     "other":"1",
     "date":"1462160641313",
     "packageapp":"com.tdg.onet2003"
