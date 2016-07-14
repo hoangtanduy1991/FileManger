@@ -8,18 +8,5 @@
     "other":"0",
     "date":"1462160641313",
     "packageapp":"",
-    "adsapp":[
-        [ 
-          "com.kits.projectp", 
-          "https://raw.githubusercontent.com/hoangtanduy/FileManger/master/appmotion.jpg"
-        ], 
-        [   
-          "com.brainium.sudoku.free", 
-          "https://raw.githubusercontent.com/hoangtanduy/FileManger/master/appmotion.jpg"
-        ], 
-        [ 
-          "com.kenvinbui.eggshoot4", 
-          "https://raw.githubusercontent.com/hoangtanduy/FileManger/master/appmotion.jpg"
-        ]
-  ]
+    "adsapp":""
 }
