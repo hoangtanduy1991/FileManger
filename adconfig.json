@@ -8,5 +8,10 @@
     "other":"0",
     "date":"1462160641313",
     "packageapp":"",
-    "adsapp":""
+    "adsapp":[
+        [ 
+          "com.vertexsoft.cleanboost", 
+          "https://raw.githubusercontent.com/hoangtanduy/FileManger/master/image/cleanphone1.png"
+        ]
+  ]
 }
