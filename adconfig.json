@@ -12,6 +12,10 @@
         [ 
           "com.vertexsoft.spcleanboost", 
           "https://raw.githubusercontent.com/hoangtanduy/FileManger/master/image/cleanphone1.png"
+        ],
+        [ 
+          "com.vertexsoft.studio.antivirus", 
+          "https://raw.githubusercontent.com/hoangtanduy/FileManger/master/image/anti.png"
         ]
   ]
 }
