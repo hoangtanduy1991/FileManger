@@ -8,10 +8,5 @@
     "other":"0",
     "date":"1462160641313",
     "packageapp":"",
-    "adsapp":[
-        [ 
-          "com.vertexsoft.studio.antivirus", 
-          "https://raw.githubusercontent.com/hoangtanduy/FileManger/master/image/anti.png"
-        ]
-  ]
+    "adsapp":""
 }
