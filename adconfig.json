@@ -8,5 +8,7 @@
     "other":"0",
     "date":"1462160641313",
     "packageapp":"",
-    "adsapp":""
+    "adsapp":"",
+    "current_version":"1",
+    "allowed_version":"2"
 }
