@@ -1,7 +1,7 @@
 # Video Uploader
 
 ## Requirements
-
+ Demo redmine 
 * Platform: iOS
 * Supported iOS versions: 8.0+
 * Apple accounts/credentials: N/A
